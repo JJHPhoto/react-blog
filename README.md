@@ -24,8 +24,14 @@
 ## Stack
 
   <img src="https://img.shields.io/badge/-React-informational" />
+ <img src="https://img.shields.io/badge/-node.js-green" />
+
+## Dependencies
+
+<img src="https://img.shields.io/badge/-React Router-green" />
 
 ## Resources
 
 [Shields.io](https://shields.io/)
+
 [Bacon Ipsum](https://baconipsum.com/)
