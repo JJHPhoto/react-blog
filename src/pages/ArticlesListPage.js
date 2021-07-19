@@ -1,5 +1,5 @@
 import React from "react";
-import ArticlesList from "../components/articlesList";
+import ArticlesList from "../components/ArticlesList";
 import articleContent from "./article-conent";
 
 const ArticlesListPage = () => (
