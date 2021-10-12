@@ -23,12 +23,11 @@ This application was created following [Shaun Wassell's](https://www.linkedin.co
 
 ## Stack
 
-  <img src="https://img.shields.io/badge/-React-informational" />
- <img src="https://img.shields.io/badge/-node.js-green" />
+<img src="https://img.shields.io/badge/-React-informational" /> <img src="https://img.shields.io/badge/-node.js-green" />
 
 ## Dependencies
 
-<img src="https://img.shields.io/badge/-React Router-green" />
+<img src="https://img.shields.io/badge/-React Router-green" /> <img src="https://img.shields.io/badge/-React DOM-orange" /> <img src="https://img.shields.io/badge/-React Scripts-blue" />
 
 ## Resources
 
