@@ -19,7 +19,7 @@
 
 ## Application Descrition
 
-## Application Demo
+This application was created following [Shaun Wassell's](https://www.linkedin.com/in/shaun-wassell/?trk=lil_instructor) LinkedIn course [React: Creating and Hosting a Full-Stack Site](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site/react-for-full-stack-solutions) pathway on LinkedIn Learning. For me, it was very helpful that Shaun was very thorough with the back-end part of this course. I am going to use what I learned in this course to work on other full-stack personal projects.
 
 ## Stack
 
